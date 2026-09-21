@@ -14,7 +14,7 @@ import (
 	"unicode/utf8"
 
 	"github.com/go-ldap/ldap/v3"
-	"github.com/zippyy/SiloMediaServer-LDAP/internal/config"
+	"github.com/Bloem-Studios/bloem-community-zippyy-ldap/internal/config"
 )
 
 var (

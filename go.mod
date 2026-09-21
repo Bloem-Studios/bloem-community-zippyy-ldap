@@ -1,11 +1,11 @@
-module github.com/zippyy/SiloMediaServer-LDAP
+module github.com/Bloem-Studios/bloem-community-zippyy-ldap
 
 go 1.26.0
 
 require (
-	github.com/Silo-Server/silo-plugin-sdk v0.12.0
+	github.com/Bloem-Studios/bloem-plugin-sdk v0.16.1
 	github.com/go-ldap/ldap/v3 v3.4.14
-	google.golang.org/grpc v1.75.1
+	google.golang.org/grpc v1.82.1
 	google.golang.org/protobuf v1.36.11
 )
 
@@ -25,5 +25,5 @@ require (
 	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
 	golang.org/x/text v0.40.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260414002931-afd174a4e478 // indirect
 )

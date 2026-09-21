@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	publicmanifest "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginsdk/manifest"
+	publicmanifest "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginsdk/manifest"
 	"google.golang.org/protobuf/types/known/structpb"
 )
 

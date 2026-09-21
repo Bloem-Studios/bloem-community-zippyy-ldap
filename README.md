@@ -1,3 +1,12 @@
+## Bloem community build
+
+This is Bloem's community build of [zippyy/SiloMediaServer-LDAP](https://github.com/zippyy/SiloMediaServer-LDAP) by **zippyy**
+(contributors: zippyy). It is ported to the Bloem plugin SDK and listed in the
+Bloem community plugin catalog. All credit for the plugin goes to its author; please
+report plugin behavior issues upstream. See [NOTICE](NOTICE) for provenance.
+
+---
+
 # Silo Media Server LDAP Authentication
 
 An LDAP authentication provider plugin for [Silo Media Server](https://github.com/Silo-Server/silo-server).
